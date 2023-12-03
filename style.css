@@ -27,6 +27,24 @@ p {
 
 a:hover {
   background-color: #FFD700;
+  color: black;
+}
+a:link {
+  color: #FFD700;
+  background-color: black;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #FFD700;
+  background-color: black;
+  text-decoration: none;
+}
+
+a:active {
+  color: red;
+  background-color: black;
+  text-decoration: underline;
 }
 
 a {
