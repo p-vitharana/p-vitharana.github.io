@@ -3,15 +3,14 @@
 }
 
 .list {
-  nav.formatting {
-    color: #FFD700;
-    text-align: center;
-    padding: 20px 44px;
-    text-decoration: none;
-    float: right;
-    border-left: 5px solid #000000;
-    font-size: 28px;
-    font-weight: bold;
+  color: #FFD700;
+  text-align: center;
+  padding: 20px 44px;
+  text-decoration: none;
+  float: right;
+  border-left: 5px solid #000000;
+  font-size: 28px;
+  font-weight: bold;
 }
 
 h1{
