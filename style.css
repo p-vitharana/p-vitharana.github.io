@@ -1,6 +1,16 @@
-div {
-  border: 1px solid black;
+a:hover {
   background-color: #FFD700;
+}
+
+div {
+  border: 1px #FFD700;
+  background-color: solid black;
   padding:10px;
+}
+
+body {
+    background-color: solid black;
+    font-family: "Times New Roman";
+    color: #FFD700;
 }
 
