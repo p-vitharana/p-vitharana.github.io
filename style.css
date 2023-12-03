@@ -1,7 +1,7 @@
 h1{
   font-family: "Brush Script MT", cursive;
   color: #FFD700;
-  text-allignment: center;
+  text-allign: center;
   font-size: 60px;
 }
 
@@ -25,7 +25,7 @@ a:hover {
   background-color: #FFD700;
 }
 
-a.nav {
+nav {
     color: #FFD700;
     text-align: center;
     padding: 20px 44px;
