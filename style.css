@@ -18,13 +18,13 @@ a.nav {
 }
 
 div {
-  border: 1px #FFD700;
-  background-color: solid black;
+  border: 1px grey;
+  background-color: black;
   padding:10px;
 }
 
 body {
-    background-color: solid black;
+    background-color: black;
     color: #FFD700;
 }
 
