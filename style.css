@@ -1,5 +1,5 @@
-*{
-  font-family: Arial, Helvetica, sans-serif;
+a.h1{
+  font-family: "Brush Script MT";
 }
 
 a:hover {
@@ -25,7 +25,8 @@ div {
 
 body {
     background-color: #000000;
-    color: #FFD700;
+    color: #FFD700
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1{
