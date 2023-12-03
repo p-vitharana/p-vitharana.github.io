@@ -53,7 +53,7 @@ a {
   color: black;
 }
   
-nav {
+1:nav {
     color: #FFD700;
     text-align: center;
     padding: 20px 44px;
@@ -62,12 +62,6 @@ nav {
     border-left: 5px solid #000000;
     font-size: 28px;
     font-weight: bold;
-}
-
-div {
-  border: 1px grey;
-  background-color: #000000;
-  padding:10px;
 }
 
 body {
