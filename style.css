@@ -2,6 +2,17 @@ a:hover {
   background-color: #FFD700;
 }
 
+a.nav {
+    color: #FFD700;
+    text-align: center;
+    padding: 20px 44px;
+    text-decoration: none;
+    float: right;
+    border-left: 1px solid #bbb;
+    font-size: 28px;
+    font-weight: bold;
+}
+
 div {
   border: 1px #FFD700;
   background-color: solid black;
