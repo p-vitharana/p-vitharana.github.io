@@ -12,19 +12,19 @@ a.nav {
     padding: 20px 44px;
     text-decoration: none;
     float: right;
-    border-left: 1px solid #bbb;
+    border-left: 1px solid #000000;
     font-size: 28px;
     font-weight: bold;
 }
 
 div {
   border: 1px grey;
-  background-color: black;
+  background-color: #000000;
   padding:10px;
 }
 
 body {
-    background-color: black;
+    background-color: #000000;
     color: #FFD700;
 }
 
