@@ -1,7 +1,7 @@
 h1{
   font-family: "Brush Script MT", cursive;
   color: #FFD700;
-  allignment: center;
+  text-allignment: center;
   font-size: 60px;
 }
 
@@ -10,6 +10,16 @@ h3 {
   font-size: 26px;
   color: #FFD700;
 }  
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: #FFD700;
+  padding: 25px;
+  background-color: black;
+  border: 1px solid #FFD700;
+;
+
 
 a:hover {
   background-color: #FFD700;
