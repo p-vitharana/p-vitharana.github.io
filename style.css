@@ -8,12 +8,20 @@ h1{
   color: white;
   text-align: center;
   font-size: 70px;
+  width: 200px;
+  border: 1px #1F1B24;
+  padding: 25px;
+  margin: 12px
 }
 
 h3 {
   font-family: "Roboto";
   font-size: 26px;
   color: white;
+  width: 200px;
+  border: 1px #1F1B24;
+  padding: 25px;
+  margin: 12px
 }  
 
 p {
@@ -23,6 +31,8 @@ p {
   padding: 25px;
   background-color: #1F1B24;
   border: 5px solid #1F1B24;
+  width: 200px;
+  margin: 12px
 }
 
 .topnav {
