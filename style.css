@@ -7,32 +7,32 @@ h1{
   font-family: "Roboto";
   color: white;
   text-align: center;
-  font-size: 70px;
-  width: 2000px;
+  font-size: 60px;
+  width: 500px;
   border: 1px #1F1B24;
-  padding: 25px;
-  margin: 12px
+  padding: 5px;
+  margin: 2px
 }
 
 h3 {
   font-family: "Roboto";
   font-size: 26px;
   color: white;
-  width: 1000px;
+  width: 250px;
   border: 1px #1F1B24;
-  padding: 25px;
-  margin: 12px
+  padding: 10px;
+  margin: 5px
 }  
 
 p {
   font-family: "Roboto";
   font-size: 20px;
   color: white;
-  padding: 25px;
+  padding: 10px;
   background-color: #1F1B24;
-  border: 5px solid #1F1B24;
-  width: 1000px;
-  margin: 12px
+  border: 1px solid #1F1B24;
+  width: 500px;
+  margin: 5px
 }
 
 .topnav {
