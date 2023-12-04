@@ -14,20 +14,20 @@
 }
 
 h1{
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Roboto";
   color: white;
   text-align: center;
   font-size: 70px;
 }
 
 h3 {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Roboto";
   font-size: 26px;
   color: white;
 }  
 
 p {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Roboto";
   font-size: 20px;
   color: black;
   padding: 25px;
@@ -68,5 +68,5 @@ a {
 body {
     background-color: #1e1e1e;
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Roboto";
 }
