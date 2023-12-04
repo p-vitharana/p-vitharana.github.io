@@ -1,6 +1,7 @@
 * {
   background-color: #1F1B24;
   font-family: "Roboto";
+  margin: 5px;
 }
 
 h1 {
@@ -11,7 +12,6 @@ h1 {
   width: 500px;
   border: 1px #1F1B24;
   padding: 5px;
-  margin: 2px;
 }
 
 h3 {
@@ -54,7 +54,6 @@ p {
   width: 300px;
   border: 15px white;
   padding: 25px;
-  margin: 12px;
 }
 
 body {
