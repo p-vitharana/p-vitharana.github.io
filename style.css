@@ -3,7 +3,7 @@
 }
 
 .list {
-  color: #FFD700;
+  color: white;
   text-align: center;
   padding: 20px 44px;
   text-decoration: none;
@@ -15,7 +15,7 @@
 
 h1{
   font-family: Arial, Helvetica, sans-serif;
-  color: #FFD700;
+  color: white;
   text-align: center;
   font-size: 70px;
 }
@@ -23,7 +23,7 @@ h1{
 h3 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 26px;
-  color: #FFD700;
+  color: white;
 }  
 
 p {
@@ -42,7 +42,7 @@ a:hover {
 }
   
 a:link {
-  color: #FFD700;
+  color: white;
   background-color: #121212;
   text-decoration: none;
 }
