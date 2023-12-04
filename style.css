@@ -51,9 +51,10 @@ p {
 }
 
 .section {
+  border-radius: 25px;
   padding: 10px;
-  background-color: #1F1B24;
-  border: 1px solid #1F1B24;
+  background-color: #343541;
+  border: 1px solid #343541;
   width: 400px;
   margin: 5px;
 }
