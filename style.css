@@ -29,12 +29,11 @@ h3 {
 p {
   font-family: "Roboto";
   font-size: 20px;
-  color: black;
+  color: white;
   padding: 25px;
   background-color: #1F1B24;
   border: 5px solid #1F1B24;
-;
-
+}
 
 .topnav {
   background-color: #1F1B24;
