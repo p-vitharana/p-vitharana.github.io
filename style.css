@@ -18,6 +18,9 @@ h3 {
   font-family: "Roboto";
   font-size: 26px;
   color: white;
+  padding: 10px;
+  border: 1px solid #343541;
+  margin: 5px;
 }  
 
 p {
@@ -51,11 +54,7 @@ p {
 }
 
 .section {
-  border-radius: 25px;
-  padding: 10px;
-  background-color: #343541;
-  border: 1px solid #343541;
-  margin: 5px;
+
 }
 
 body {
