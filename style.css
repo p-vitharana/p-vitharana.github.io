@@ -1,5 +1,5 @@
 *{
-  background-color: black;
+  background-color: #121212;
 }
 
 .list {
@@ -31,42 +31,42 @@ p {
   font-size: 20px;
   color: black;
   padding: 25px;
-  background-color: #FFD700;
-  border: 5px solid #FFD700;
+  background-color: #1F1B24;
+  border: 5px solid #1F1B24;
 ;
 
 
 a:hover {
-  background-color: #FFD700;
+  background-color: white;
   color: black;
 }
   
 a:link {
   color: #FFD700;
-  background-color: black;
+  background-color: #121212;
   text-decoration: none;
 }
 
 a:visited {
-  color: #FFD700;
-  background-color: black;
+  color: #121212;
+  background-color: white;
   text-decoration: none;
 }
 
 a:active {
   color: red;
-  background-color: black;
+  background-color: white;
   text-decoration: underline;
 }
 
 a {
   float: center;
   padding: 25px;
-  color: black;
+  color: white;
 }
 
 body {
-    background-color: #000000;
-    color: #FFD700;
+    background-color: #121212;
+    color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
