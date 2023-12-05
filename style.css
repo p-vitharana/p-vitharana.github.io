@@ -1,7 +1,7 @@
 * {
   background-color: #1F1B24;
   font-family: "Roboto";
-  margin: 1px;
+  margin: 5px;
 }
 
 h1 {
@@ -51,9 +51,9 @@ p {
 }
 
 .section {
-  width: 100%;
+  width: 95%;
   border: 15px white;
-  padding: 4px 1px;
+  padding: 20px 5px;
 }
 
 body {
