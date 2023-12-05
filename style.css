@@ -29,6 +29,8 @@ p {
 .topnav {
   background-color: #1F1B24;
   overflow: hidden;
+  position: fixed;
+  top: 0;
 }
 
 .topnav a {
