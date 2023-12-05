@@ -9,7 +9,7 @@ h1 {
   color: white;
   text-align: center;
   font-size: 60px;
-  width: 500px;
+  width: 100%;
   border: 1px #1F1B24;
   padding: 5px;
 }
@@ -51,7 +51,7 @@ p {
 }
 
 .section {
-  width: 300px;
+  width: 100%;
   border: 15px white;
   padding: 25px;
 }
