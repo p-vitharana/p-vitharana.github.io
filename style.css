@@ -11,7 +11,7 @@ h1 {
   font-size: 60px;
   width: 100%;
   border: 1px #1F1B24;
-  padding: 2px;
+  padding: 1px;
 }
 
 h3 {
@@ -53,7 +53,7 @@ p {
 .section {
   width: 100%;
   border: 15px white;
-  padding: 2px;
+  padding: 1px;
 }
 
 body {
