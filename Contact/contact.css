@@ -12,6 +12,8 @@ h1 {
   width: 100%;
   border: 1px #1F1B24;
   padding: 4px 1px;
+  position: fixed;
+  top: 0;
 }
 
 h3 {
