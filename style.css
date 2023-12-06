@@ -8,12 +8,6 @@ h1 {
   font-family: "Roboto";
   color: white;
   font-size: 60px;
-  float: right;
-  width: 100%;
-  border: 1px #1F1B24;
-  padding: 4px 1px;
-  position: fixed;
-  top: 0;
 }
 
 h3 {
@@ -31,8 +25,6 @@ p {
 .topnav {
   background-color: #1F1B24;
   overflow: hidden;
-  position: fixed;
-  top: 0;
 }
 
 .topnav a {
@@ -64,4 +56,13 @@ p {
 body {
     color: white;
     font-family: "Roboto";
+}
+
+.heading {
+  float: right;
+  width: 100%;
+  border: 1px #1F1B24;
+  padding: 4px 1px;
+  position: fixed;
+  top: 0;
 }
