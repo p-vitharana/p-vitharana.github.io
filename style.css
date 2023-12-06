@@ -7,8 +7,8 @@
 h1 {
   font-family: "Roboto";
   color: white;
-  text-align: center;
   font-size: 60px;
+  float: right;
   width: 100%;
   border: 1px #1F1B24;
   padding: 4px 1px;
@@ -59,7 +59,6 @@ p {
   border: 15px white;
   padding: 20px 5px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-
 }
 
 body {
