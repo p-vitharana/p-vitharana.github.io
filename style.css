@@ -32,6 +32,7 @@ p {
   background-color: #1F1B24;
   overflow: hidden;
   box-shadow: 0 0 20px rgba(0, 0, 0, .15);
+  position: sticky;
 }
 
 .topnav a {
