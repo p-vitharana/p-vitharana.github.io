@@ -78,7 +78,7 @@ body {
   width: 100%;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: auto;
   position: relative;
   margin: 0;
 }
@@ -91,6 +91,7 @@ body {
   transform: translate(-50%, -50%);
   color: white;
   margin: 0;
+  display: flex;
 }
 
 footer {
