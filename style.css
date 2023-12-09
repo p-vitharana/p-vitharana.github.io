@@ -1,6 +1,6 @@
 * {
   font-family: "Roboto";
-  margin: 5px;
+  margin: 0px;
   background-color: #1F1B24;
 }
 
@@ -9,6 +9,7 @@ h1 {
   color: white;
   font-size: 60px;
   text-align: center;
+  margin: 5px;
 }
 
 h3 {
@@ -16,6 +17,7 @@ h3 {
   font-size: 26px;
   color: white;
   background-color: #1F1B24;
+  margin: 5px;
 }  
 
 p {
@@ -23,6 +25,7 @@ p {
   font-size: 20px;
   color: white;
   background-color: #1F1B24;
+  margin: 5px;
 }
 
 .topnav {
@@ -98,4 +101,5 @@ footer {
   background-color: "#151318";
   color: white;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .19);
+  margin: 5px;
 }
