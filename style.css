@@ -8,6 +8,7 @@ h1 {
   font-family: "Roboto";
   color: white;
   font-size: 60px;
+  text-align: center;
 }
 
 h3 {
@@ -69,7 +70,8 @@ body {
 
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Images/1920x1080.jpg");
-  height: 50%;
+  height: 100%;
+  width: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
