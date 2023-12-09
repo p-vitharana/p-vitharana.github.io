@@ -1,5 +1,4 @@
 * {
-  background-color: #1F1B24;
   font-family: "Roboto";
   margin: 5px;
 }
@@ -15,12 +14,14 @@ h3 {
   font-family: "Roboto";
   font-size: 26px;
   color: white;
+  background-color: #1F1B24;
 }  
 
 p {
   font-family: "Roboto";
   font-size: 20px;
   color: white;
+  background-color: #1F1B24;
 }
 
 .topnav {
@@ -66,6 +67,7 @@ body {
   padding: 4px 1px;
   position: fixed;
   top: 0;
+  background-color: #1F1B24;
 }
 
 .hero-image {
@@ -85,4 +87,8 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
+}
+
+footer {
+  background-color: "#151318";
 }
