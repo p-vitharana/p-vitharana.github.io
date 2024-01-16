@@ -5,7 +5,6 @@
 }
 
 html {
-  scroll-padding-top: 132px;
   scrollbar-width: none;
   scroll-behaviour: smooth;
 }
@@ -13,6 +12,7 @@ html {
 img {
   width: 100%;
   height: auto;
+  top-padding: 132px;
 }
 
 h1 {
