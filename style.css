@@ -4,6 +4,10 @@
   background-color: #1F1B24;
 }
 
+@media (min-width:991px) {
+  .body-container-wrapper{margin-top:80px;}
+} 
+
 img {
   width: 100%;
   height: auto;
