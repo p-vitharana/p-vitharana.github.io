@@ -6,6 +6,7 @@
 
 html {
   scroll-padding-top: 132px;
+  scrollbar-width: none;
 }
 
 img {
@@ -71,6 +72,11 @@ p {
 body {
     color: white;
     font-family: "Roboto";
+    -ms-overflow-style: none;
+}
+
+body::-webkit-scrollbar {
+  display: none;
 }
 
 .heading {
