@@ -9,10 +9,18 @@ html {
   scroll-behaviour: smooth;
 }
 
-img {
-  width: 100%;
-  height: auto;
-  padding-top: 132px;
+#wrapper {
+    width: 100%;
+    overflow: hidden;
+}
+
+#container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.banner-img {
+    width: 100%;
 }
 
 h1 {
