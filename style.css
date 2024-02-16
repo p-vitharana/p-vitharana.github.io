@@ -19,9 +19,20 @@ img {
 h1 {
   font-family: "Roboto";
   color: white;
-  font-size: 60px;
   text-align: center;
   margin: 5px;
+}
+
+@media only screen and (max-width: 600px) {
+  h1 {
+    font-size: 40px;
+  }
+}
+
+@media only screen and (min-width: 601px) {
+  h1 {
+    font-size: 60px;
+  }
 }
 
 h3 {
