@@ -24,8 +24,10 @@ h1 {
 }
 
 h4 {
-  float: left;
-  padding-right: 1000px;
+    float: left;
+    padding-top: 20px;
+    padding-right: 800px;
+    padding-bottom: 10px;
 }
 
 @media only screen and (max-width: 720px) and (min-width: 320px){
