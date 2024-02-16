@@ -125,3 +125,12 @@ footer {
   bottom: 0;
   padding: 25px;
 }
+
+.topnav img {
+  width: 30px;
+  height: 30px;
+}
+
+li {
+  list-style-type: none;
+}
