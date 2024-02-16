@@ -117,18 +117,13 @@ body::-webkit-scrollbar {
 }
 
 footer {
-  background-color: "#151318";
+  background-color: #151318;
   color: white;
   box-shadow: 0px -10px 5px -5px #18151b;
   margin: 5px;
   left: 0;
   bottom: 0;
   padding: 25px;
-}
-
-.topnav {
-  width: 30px;
-  height: 30px;
 }
 
 .Contact img {
