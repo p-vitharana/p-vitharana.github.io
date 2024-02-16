@@ -25,6 +25,7 @@ h1 {
 
 h4 {
   float: left;
+  padding-right: 1000px;
 }
 
 @media only screen and (max-width: 720px) and (min-width: 320px){
@@ -138,4 +139,5 @@ footer {
 li {
   list-style-type: none;
   display: inline-block;
+  padding: 30px
 }
