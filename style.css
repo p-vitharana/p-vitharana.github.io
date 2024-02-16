@@ -125,18 +125,3 @@ footer {
   bottom: 0;
   padding: 25px;
 }
-
-@media screen and (min-width: 980px) and (max-width: 1260px) {
-  a.x-btn-navbar {
-    display: block;
-    float: right;
-  }
-
-  nav.x-nav-wrap.desktop {
-    display: none;
-  }
-  
-  .x-nav-wrap.mobile:not(.x-collapsed) {
-    display: block !important;
-  }
-}
