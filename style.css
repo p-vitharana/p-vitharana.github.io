@@ -1,3 +1,38 @@
+.topnav {
+  background-color: #1d1d1f;
+  overflow: hidden;
+  box-shadow: 0px 20px 10px -10px #18151b;
+  position: sticky;
+}
+
+.light-mode-shadow1 {
+  box-shadow: 0px 20px 10px -10px #aeb5b5;
+  background-color: white;
+}
+
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.light-mode3 {
+  color: #1d1d1f;
+}
+
+.topnav a:hover,
+.topnav a:active {
+  background-color: white;
+  color: #1d1d1f;
+}
+
+.light-mode2 {
+  background-color: #1d1d1f;
+  color: white;
+}
+
 * {
   font-family: "Roboto";
   margin: 0px;
@@ -74,41 +109,6 @@ p {
   font-size: 20px;
   
   margin: 5px;
-}
-
-.topnav {
-  background-color: #1d1d1f;
-  overflow: hidden;
-  box-shadow: 0px 20px 10px -10px #18151b;
-  position: sticky;
-}
-
-.light-mode-shadow1 {
-  box-shadow: 0px 20px 10px -10px #aeb5b5;
-  background-color: white;
-}
-
-.topnav a {
-  float: left;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-.light-mode3 {
-  color: #1d1d1f;
-}
-
-.topnav a:hover,
-.topnav a:active {
-  background-color: white;
-  color: #1d1d1f;
-}
-
-.light-mode2 {
-  background-color: #1d1d1f;
-  color: white;
 }
 
 .section {
