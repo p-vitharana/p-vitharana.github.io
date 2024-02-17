@@ -20,10 +20,15 @@
 
 .light-mode3 {
   color: #1d1d1f;
+  background-color: white;
 }
 
-.topnav a:hover,
-.topnav a:active {
+.topnav a:hover {
+  background-color: white;
+  color: #1d1d1f;
+}
+
+.topnav a.active {
   background-color: white;
   color: #1d1d1f;
 }
