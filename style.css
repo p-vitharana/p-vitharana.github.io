@@ -160,3 +160,25 @@ button {
   color: #1d1d1f;
   background-color: white;
 }
+
+
+.topnav a:hover {
+  background-color: white;
+  color: #1d1d1f;
+}
+
+light-mode2 {
+  background-color: #1d1d1f;
+  color: white;
+}
+
+.topnav a.active {
+  background-color: white;
+  color: #1d1d1f;
+}
+
+light-mode4 {
+  background-color: #1d1d1f;
+  color: white;
+}
+
