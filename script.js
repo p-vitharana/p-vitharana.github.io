@@ -23,6 +23,9 @@ function darklightswitch() {
 
   var element7 = document.querySelector(".heading2")
   element7.classList.toggle("light-mode5")
+
+  var element8 = document.querySelector("head")
+  element8.classList.toggle("light-mode7")
 }
 
 
