@@ -88,7 +88,7 @@ p {
   background-color: white;
 }
 
-.topnav a {
+.topnav a: {
   float: left;
   color: white;
   text-align: center;
@@ -100,22 +100,12 @@ p {
   color: #1d1d1f;
 }
 
-.topnav a:hover {
+.topnav a:hover, a:active {
   background-color: white;
   color: #1d1d1f;
 }
 
 .light-mode2 {
-  background-color: #1d1d1f;
-  color: white;
-}
-
-.topnav a.active {
-  background-color: white;
-  color: #1d1d1f;
-}
-
-.light-mode4 {
   background-color: #1d1d1f;
   color: white;
 }
