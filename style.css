@@ -3,6 +3,14 @@
   margin: 0px;
 }
 
+head {
+  background-color: #1d1d1f;
+}
+
+.light-mode7 {
+  background-color: white;
+}
+
 body {
   -ms-overflow-style: none;
   background-color: #1d1d1f;
