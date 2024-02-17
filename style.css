@@ -100,7 +100,8 @@ p {
   color: #1d1d1f;
 }
 
-.topnav a:hover, a:active {
+.topnav a:hover,
+.topnav a:active {
   background-color: white;
   color: #1d1d1f;
 }
