@@ -129,6 +129,11 @@ li {
     padding-left: 5px;
 }
 
+button {
+  float: right;
+  padding: 14px 16px;
+}
+
 .topnav {
   background-color: #1d1d1f;
   overflow: hidden;
