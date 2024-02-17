@@ -1,5 +1,5 @@
 function darklightswitch() {
-  var elements = document.querySelectorAll("*");
+  var elements = document.querySelectorAll("body");
   elements.forEach(function(element) {
     element.classList.toggle("light-mode");
   });
@@ -20,6 +20,9 @@ function darklightswitch() {
 
   var element6 = document.querySelector(".topnav a:active");
   element6.classList.toggle("light-mode4");
+
+  var element7 = document.querySelector(".heading2")
+  element7.classList.toggle("light-mode5")
 }
 
 
