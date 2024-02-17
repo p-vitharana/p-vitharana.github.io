@@ -1,13 +1,27 @@
 * {
   font-family: "Roboto";
   margin: 0px;
+}
+
+body {
+  -ms-overflow-style: none;
   background-color: #1d1d1f;
-  color: white;
+  color: white;  
 }
 
 .light-mode {
   background-color: white;
-  color: black;
+  color: #1d1d1f;
+}
+
+.heading2 {
+  color: white;
+  background-color: #1d1d1f;
+}
+
+light-mode5 {
+  background-color: white;
+  color: #1d1d1f;
 }
 
 html {
@@ -79,10 +93,6 @@ p {
 .section {
   width: 97%;
   padding: 20px 5px;
-}
-
-body {
-  -ms-overflow-style: none;
 }
 
 body::-webkit-scrollbar {
