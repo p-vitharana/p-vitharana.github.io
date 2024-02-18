@@ -134,18 +134,10 @@ button {
   float: right;
   padding: 14px 16px;
   color: white;
-}
-
-.toggle-button {
-  display: inline-block;
   background-color: black;
-  color: white;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 20px;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-  }
+  border: 2px solid white;
+  transition: 2s;
+}
 
 .topnav {
   background-color: #1d1d1f;
