@@ -1,25 +1,19 @@
-function darklightswitch() {
-  var elements = document.querySelectorAll("*");
-  elements.forEach(function(element) {
-    element.classList.toggle("light-mode");
-  });
+const toggleSwitch = document.getElementById("modeToggle");
 
-  var element2 = document.querySelector(".topnav");
-  element2.classList.toggle("light-mode-shadow1");
-  
-  var element3 = document.querySelector("footer");
-  element3.classList.toggle("light-mode-shadow2");
-
-  var element4 = document.querySelector(".topnav a:hover");
-  element4.classList.toggle("light-mode2");
-  
-  var element5 = document.querySelectorAll(".topnav a");
-  element5.forEach(function(element) {
-    element.classList.toggle("light-mode3");
-  });
-
-  var element6 = document.querySelector(".topnav a:active");
-  element6.classList.toggle("light-mode4");
-}
-
-
+toggleSwitch.addEventListener('change', function() {
+  if(this.checked) {
+    document.body.classList.add("light-mode");
+    document.*.classList.add("light-mode2")
+    document..topnav.classList.add("light-mode3")
+    document..topnav a.add("light-mode4")
+    document..topnav a:hover.add("light-mode5")
+    document..topnav a:active.add("light-mode6")
+  } else {
+    document.body.classList.remove('light-mode');
+    document.*.classList.remove("light-mode2")
+    document..topnav.classList.remove("light-mode3")
+    document..topnav a.remove("light-mode4")
+    document..topnav a:hover.remove("light-mode5")
+    document..topnav a:active.remove("light-mode6")
+  }    
+});
