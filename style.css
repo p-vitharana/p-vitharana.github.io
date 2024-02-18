@@ -10,11 +10,6 @@ body {
   color: white;  
 }
 
-.light-mode {
-  background-color: white;
-  color: #1d1d1f;
-}
-
 html {
   scrollbar-width: none;
   scroll-behavior: smooth;
@@ -71,13 +66,11 @@ h4 {
 
 h3 { 
   font-size: 26px;
-  
   margin: 5px;
 }  
 
 p {
   font-size: 20px;
-  
   margin: 5px;
 }
 
@@ -105,10 +98,6 @@ footer {
   left: 0;
   bottom: 0;
   padding: 0px;
-}
-
-.light-mode-shadow2 {
-  box-shadow: 0px -10px 5px -5px #aeb5b5;
 }
 
 footer img {
@@ -147,12 +136,6 @@ button {
   position: sticky;
 }
 
-.light-mode-shadow1 {
-  box-shadow: 0px 20px 10px -10px #aeb5b5;
-  background-color: white;
-  color: #1d1d1f;
-}
-
 .topnav a {
   float: left;
   color: white;
@@ -161,30 +144,13 @@ button {
   text-decoration: none;
 }
 
-.light-mode3 {
-  color: #1d1d1f;
-  background-color: white;
-}
-
-
 .topnav a:hover {
   background-color: white;
   color: #1d1d1f;
   transition: 2s;
 }
 
-light-mode2 {
-  background-color: #1d1d1f;
-  color: white;
-}
-
 .topnav a.active {
   background-color: white;
   color: #1d1d1f;
 }
-
-light-mode4 {
-  background-color: #1d1d1f;
-  color: white;
-}
-
