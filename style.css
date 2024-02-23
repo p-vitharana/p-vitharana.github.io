@@ -5,23 +5,11 @@
   background-color: #1d1d1f;
 }
 
-.lightmode2 {
-  font-family: "Roboto";
-  margin: 0px;
-  background-color: white;  
-}
-
 /* Body Code */
 body {
   -ms-overflow-style: none;
   background-color: #1d1d1f;
   color: white;  
-}
-
-.lightmode {
-  -ms-overflow-style: none;
-  background-color: white;
-  color: #1d1d1f;    
 }
 
 /* HTML Code */
@@ -158,25 +146,10 @@ button {
   position: sticky;
 }
 
-.lightmode3 {
-  background-color: white;
-  overflow: hidden;
-  box-shadow: 0px 20px 10px -10px #18151b;
-  position: sticky;  
-}
-
 /* topnav a code */
 .topnav a {
   float: left;
   color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-.lightmode4 {
-  float: left;
-  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -189,65 +162,8 @@ button {
   transition: 2s;
 }
 
-.lightmode5 {
-  background-color: black;
-  color: white;
-  transition: 2s;
-}
-
 /* Active topnav */
 .topnav a.active {
   background-color: white;
   color: #1d1d1f;
-}
-
-.lightmode6 {
-  background-color: black;
-  color: white;
-}
-
-/* Toggle Switch CSS */
-.toggle-switch {
-  position: relative;
-  display: inline-block;
-  width: 60px;
-  height: 34px;
-}
-
-.toggle-switch input[type="checkbox"] {
-  opacity: 0;
-  width: 0;
-  height: 0;
-}
-
-.toggle-slider {
-  position: absolute;
-  cursor: pointer;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background-color: #ccc;
-  transition: .4s;
-  border-radius: 34px;
-}
-
-.toggle-slider:before {
-  position: absolute;
-  content: "";
-  height: 26px;
-  width: 26px;
-  left: 4px;
-  bottom: 4px;
-  background-color: white;
-  transition: .4s;
-  border-radius: 50%;
-}
-
-input:checked + .toggle-slider {
-  background-color: #2196F3;
-}
-
-input:checked + .toggle-slider:before {
-  transform: translateX(26px);
 }
