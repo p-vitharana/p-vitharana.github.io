@@ -23,9 +23,8 @@ img {
   margin: 0px;
   padding-top: 100px;
   width: 100%;
-  height: auto; /* Prevents image stretching */
+  height: 100%;
   display: block;
-  object-fit: cover; /* Ensures image fills its space properly */
   box-shadow: 0px 20px 10px -10px #18151b;
 }
 
@@ -111,13 +110,13 @@ footer {
 }
 
 footer img {
-  padding-top: 0px;
+ padding-top: 0px;
 }
 
 .Contact img {
-  height: 30px;
-  width: 30px;
-  float: right;
+ height: 30px;
+ width: 30px;
+ float: right;
 }
 
 li {
@@ -127,6 +126,11 @@ li {
   padding-bottom: 10px;
   padding-right: 5px;
   padding-left: 5px;
+}
+
+.inline-block {
+    display: block;
+    float: right;
 }
 
 button {
@@ -167,10 +171,4 @@ button {
 .topnav a.active {
   background-color: white;
   color: #1d1d1f;
-}
-
-
-button:hover {
-  background-color: white;
-  color: black;
 }
