@@ -101,22 +101,23 @@ body::-webkit-scrollbar {
   top: 0;
 }
 
+/* Updated Footer Code */
 footer {
-  box-shadow: 0px -10px 5px -5px #18151b;
-  margin: 5px;
-  padding-left: 0;
-  padding-bottom: 0;
-  padding: 0px;
+  box-shadow: 0px -5px 5px -5px #18151b;
+  padding: 5px 0;
+  text-align: center;
 }
 
 footer img {
- padding-top: 0px;
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
+/* Reduce footer icon sizes */
 .Contact img {
- height: 30px;
- width: 30px;
- float: right;
+  height: 20px;
+  width: 20px;
+  float: right;
 }
 
 li {
